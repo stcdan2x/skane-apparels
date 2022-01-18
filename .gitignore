@@ -21,6 +21,10 @@ frontend/build
 .env.development.local
 .env.test.local
 .env.production.local
+backend/*.env
+frontend/*.env
+backend/sample.env
+frontend/sample.env
 
 .npmrc
 backend/.npmrc
