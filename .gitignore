@@ -24,11 +24,12 @@ frontend/build
 
 .npmrc
 backend/.npmrc
+frontend/.npmrc
+
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .vscode
-.vscode/settings.json
-frontend/.vscode
+
 
